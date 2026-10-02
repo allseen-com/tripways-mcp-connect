@@ -1,0 +1,15 @@
+{
+  "name": "tripways",
+  "description": "TripWays: find, price and book tours, day trips and activities worldwide.",
+  "owner": {
+    "name": "All Seen LLC",
+    "email": "info@tripways.com"
+  },
+  "plugins": [
+    {
+      "name": "tripways",
+      "source": "./plugins/tripways",
+      "description": "Connect Claude Code to the TripWays tour catalog: search, live dates and seats, group prices, checkout links."
+    }
+  ]
+}

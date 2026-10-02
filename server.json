@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.tripways/tours",
+  "title": "TripWays",
+  "description": "Find, price, and book tours, day trips, and activities worldwide, with live dates and prices.",
+  "version": "1.2.0",
+  "websiteUrl": "https://tripways.com/mcp/",
+  "icons": [
+    {
+      "src": "https://tripways.com/wp-content/uploads/2026/07/TripWays-Black-Icon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.tripways.com/mcp"
+    }
+  ]
+}

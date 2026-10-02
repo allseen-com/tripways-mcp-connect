@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tripways": {
+      "type": "http",
+      "url": "https://mcp.tripways.com/mcp"
+    }
+  }
+}
