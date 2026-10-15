@@ -66,7 +66,7 @@ Streamable HTTP, URL `https://mcp.tripways.com/mcp`, no authentication. The regi
 
 ## Tools
 
-All six are read-only.
+All twelve are read-only.
 
 | Tool | What it does |
 |------|--------------|
@@ -76,6 +76,12 @@ All six are read-only.
 | `check_availability` | Open dates, start times and seats from the operator's live calendar. |
 | `get_price_quote` | The USD total for your group on a date and start time. A quote, not a hold. |
 | `get_booking_link` | A tripways.com checkout link with date, time and travelers filled in. |
+| `compare_tours` | Two to four tours side by side: price, duration, rating, cancellation, inclusions. |
+| `get_tour_reviews` | Rating summary and written reviews from travelers who booked on TripWays. |
+| `get_cancellation_policy` | A tour's cancellation type, refund percent, cutoff and the operator's policy text. |
+| `get_meeting_point` | Where a tour starts, hotel pickup, know-before-you-go and what to bring. |
+| `find_alternatives` | Similar tours with open start times when a date is full. |
+| `get_itinerary_ideas` | A day-by-day plan of bookable tours for a destination. Suggestions only: dates are not checked. |
 
 ## Example prompts
 

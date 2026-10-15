@@ -1,6 +1,6 @@
 {
   "name": "tripways",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Find tours, day trips and activities worldwide, check live dates and seats, get group prices, and get TripWays checkout links.",
   "mcpServers": {
     "tripways": {
