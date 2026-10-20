@@ -19,7 +19,7 @@ Open the [TripWays page in the Claude directory](https://claude.ai/directory/mcp
 
 ### ChatGPT
 
-Use the TripWays app once it appears in the ChatGPT app directory. Until then, with developer mode on: **Settings → Connectors → Create**, URL `https://mcp.tripways.com/mcp`, authentication **None**.
+Open the [TripWays page in ChatGPT Plugins](https://chatgpt.com/plugins/plugin_asdk_app_6abf1ad92c3c81919df9f226646eb57c) and add it, then pick TripWays from the **+** menu in a new chat. Or, with developer mode on (**Settings → Security and login**): **Settings → Plugins → +**, URL `https://mcp.tripways.com/mcp`, authentication **None**.
 
 ### Claude Code
 
